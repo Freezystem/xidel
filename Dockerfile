@@ -1,11 +1,7 @@
 FROM debian:latest
 
-ENV TERM=linux \
-    DEBIAN_FRONTEND=noninteractive
-
 RUN apt-get update \
-    && apt-get upgrade -y \
-    && apt-get install apt-utils wget -y
+    && apt-get install wget -y
 
 WORKDIR /app
 
