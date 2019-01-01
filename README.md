@@ -1,4 +1,4 @@
-## Xidel Dockerfile
+## Xidel Docker Image
 
 This repository contains **Dockerfile** of [Xidel](http://www.videlibri.de/xidel.html) 
 for [Docker](https://www.docker.com/)'s published to the public 
@@ -7,14 +7,14 @@ for [Docker](https://www.docker.com/)'s published to the public
 ### Supported tags and respective Dockerfile links
 
 **Debian**
-* [latest debian 0.9 0.9-debian 0.9.8 0.9.8-debian](https://github.com/Freezystem/xidel/blob/debian/0.9.8/Dockerfile)
-* [0.9.6 0.9.6-debian](https://github.com/Freezystem/xidel/blob/debian/0.9.6/Dockerfile)
-* [0.9.4 0.9.4-debian](https://github.com/Freezystem/xidel/blob/debian/0.9.4/Dockerfile)
+* [`latest`, `debian`, `0.9`, `0.9-debian`, `0.9.8`, `0.9.8-debian`](https://github.com/Freezystem/xidel/blob/master/debian/0.9.8/Dockerfile)
+* [`0.9.6`, `0.9.6-debian`](https://github.com/Freezystem/xidel/blob/master/debian/0.9.6/Dockerfile)
+* [`0.9.4`, `0.9.4-debian`](https://github.com/Freezystem/xidel/blob/master/debian/0.9.4/Dockerfile)
 
 **Alpine**
-* [alpine 0.9-alpine 0.9.8-alpine](https://github.com/Freezystem/xidel/blob/alpine/0.9.8/Dockerfile)
-* [0.9.6-alpine](https://github.com/Freezystem/xidel/blob/alpine/0.9.6/Dockerfile)
-* [0.9.4-alpine](https://github.com/Freezystem/xidel/blob/alpine/0.9.4/Dockerfile)
+* [`alpine`, `0.9-alpine`, `0.9.8-alpine`](https://github.com/Freezystem/xidel/blob/master/alpine/0.9.8/Dockerfile)
+* [`0.9.6-alpine`](https://github.com/Freezystem/xidel/blob/master/alpine/0.9.6/Dockerfile)
+* [`0.9.4-alpine`](https://github.com/Freezystem/xidel/blob/master/alpine/0.9.4/Dockerfile)
 
 ### Base Docker Image
 
